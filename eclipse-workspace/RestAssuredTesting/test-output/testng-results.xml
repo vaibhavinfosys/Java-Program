@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T06:06:09Z" name="Default suite" finished-at="2022-11-28T06:06:29Z" duration-ms="19453">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T06:06:09Z" name="Default test" finished-at="2022-11-28T06:06:29Z" duration-ms="19453">
+      <class name="Rest_Assured_Testing.Test_Methods">
+        <test-method signature="Test_Status_Code()[pri:0, instance:Rest_Assured_Testing.Test_Methods@6c4906d3]" started-at="2022-11-28T11:36:09Z" name="Test_Status_Code" finished-at="2022-11-28T11:36:13Z" duration-ms="4064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Status_Code -->
+        <test-method signature="Logging()[pri:0, instance:Rest_Assured_Testing.Test_Methods@6c4906d3]" started-at="2022-11-28T11:36:13Z" name="Logging" finished-at="2022-11-28T11:36:18Z" duration-ms="4833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logging -->
+        <test-method signature="Test_SingleContent()[pri:0, instance:Rest_Assured_Testing.Test_Methods@6c4906d3]" started-at="2022-11-28T11:36:18Z" name="Test_SingleContent" finished-at="2022-11-28T11:36:26Z" duration-ms="7986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SingleContent -->
+        <test-method signature="Test_MultipleContent()[pri:0, instance:Rest_Assured_Testing.Test_Methods@6c4906d3]" started-at="2022-11-28T11:36:26Z" name="Test_MultipleContent" finished-at="2022-11-28T11:36:28Z" duration-ms="1250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_MultipleContent -->
+        <test-method signature="Test_ParameterAndHeaders()[pri:0, instance:Rest_Assured_Testing.Test_Methods@6c4906d3]" started-at="2022-11-28T11:36:28Z" name="Test_ParameterAndHeaders" finished-at="2022-11-28T11:36:29Z" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_ParameterAndHeaders -->
+      </class> <!-- Rest_Assured_Testing.Test_Methods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
